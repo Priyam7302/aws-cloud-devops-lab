@@ -1,0 +1,21 @@
+mkdir lab_exa01
+
+cd lab_exa01
+
+mkdir my-app
+
+cd my-app
+
+nano Dockerfile
+
+docker build -t my-custom-image:latest .
+
+docker tag my-custom-image:latest my-custom-image:v1.0
+
+docker tag my-custom-image:latest my-custom-image:stable
+
+docker images
+
+docker rmi my-custom-image:stable
+
+docker images | grep my-custom
