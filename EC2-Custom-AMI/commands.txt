@@ -1,0 +1,25 @@
+Launch EC2
+
+Ubuntu 24.04
+
+t3.micro
+
+Create Security Group
+
+Allow
+
+SSH 22
+
+HTTP 80
+
+Paste user-data
+
+Launch Instance
+
+Verify Apache
+
+Create AMI
+
+Launch new EC2 from AMI
+
+Verify Website
