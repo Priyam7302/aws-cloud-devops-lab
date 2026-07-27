@@ -1,0 +1,21 @@
+Create Bucket
+
+Enable Versioning
+
+Upload Version 1
+
+Modify File
+
+Upload Version 2
+
+Modify File
+
+Upload Version 3
+
+Delete Latest Version
+
+Observe Delete Marker
+
+Delete Delete Marker
+
+Restore Previous Version
