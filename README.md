@@ -28,26 +28,26 @@ aws-cloud-devops-lab/
 ├── README.md
 │
 ├── Task-1-EC2-Custom-AMI/
-│   ├── README.md
+│
 │   ├── user-data.txt
 │   ├── index.html
 │   ├── commands.txt
 │   └── screenshots/
 │
 ├── Task-2-S3-Versioning/
-│   ├── README.md
+│ 
 │   ├── exam_details.txt
 │   ├── commands.txt
 │   └── screenshots/
 │
 ├── Task-3-Docker-Image/
-│   ├── README.md
+│  
 │   ├── Dockerfile
 │   ├── docker_commands.txt
 │   └── screenshots/
 │
 └── Task-4-Git-Version-Control/
-    ├── README.md
+   
     ├── git_commands.txt
     ├── exam_details.txt
     └── screenshots/
